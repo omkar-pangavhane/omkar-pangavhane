@@ -46,7 +46,7 @@ Git • GitHub • VS Code • Postman
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-pangavhane&show_icons=true&theme=tokyonight)
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-pangavhane&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-pangavhane&layout=compact&theme=tokyonight)
 
