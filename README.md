@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkar-pangavhane/omkar-pangavhane/main/a411f778-0fb7-473f-badd-d10b23fddef6.png" alt="Omkar Banner">
+  <img src="https://raw.githubusercontent.com/omkar-pangavhane/omkar-pangavhane/main/github-banner.png" alt="Omkar Banner">
 </p>
 
 # Hi, I'm Omkar Pangavhane 👋
