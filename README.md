@@ -117,24 +117,6 @@ Check out my repositories for projects and experiments:
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar-pangavhane&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-pangavhane&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omkar-pangavhane&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
