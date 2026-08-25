@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Omkar Pangavhane 👋
 
-<!--
-**omkar-pangavhane/omkar-pangavhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Backend Developer
 
-Here are some ideas to get you started:
+Building AI-powered applications, backend services, REST APIs, and computer vision solutions using Python and FastAPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- Software Developer
+- Python Developer
+- FastAPI Backend Development
+- Generative AI & LLM Applications
+- Computer Vision
+- REST APIs
+- SQL & Data Operations
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • JavaScript • SQL
+
+### Backend
+FastAPI • REST APIs
+
+### AI & ML
+Generative AI • LLM Applications • Computer Vision • Machine Learning
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+## 🎯 Current Focus
+
+- AI Engineering
+- LLM Applications
+- RAG Systems
+- AI Agents
+- Production AI Systems
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/omkar-pangavhane-6425b4297
+
+Email:
+omkarpangavhane@gmail.com
