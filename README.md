@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/omkar-pangavhane/omkar-pangavhane/main/github-banner.png" alt="Omkar Banner">
+</p>
+
 # Hi, I'm Omkar Pangavhane 👋
 
 ### AI & Backend Developer
