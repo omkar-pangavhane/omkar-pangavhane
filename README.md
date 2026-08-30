@@ -5,152 +5,127 @@
 <h1 align="center">Hi, I'm Omkar Pangavhane 👋</h1>
 
 <h3 align="center">
-  AI & Backend Developer | Python | FastAPI | Generative AI | Computer Vision
+  Software Developer | AI & Backend Development | Python | FastAPI | Computer Vision | Generative AI
 </h3>
 
 <p align="center">
-  Building AI-powered applications, scalable backend systems, REST APIs, and intelligent software solutions using Python and modern backend technologies.
+  Building AI-powered applications, Computer Vision solutions, and scalable backend systems using Python and modern technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Software Developer
-* 🐍 Python & Backend Developer
-* ⚡ Building backend services with FastAPI
-* 🤖 Developing Generative AI & LLM applications
-* 👁️ Working with Computer Vision solutions
-* 🔗 Designing and integrating REST APIs
-* 🗄️ Working with SQL and NoSQL databases
-* 🛠️ Debugging, troubleshooting, and improving software systems
-* 🚀 Interested in building production-ready AI applications
+- 💼 Software Developer at Textronics Design Systems
+- 🐍 Python Developer
+- ⚡ Backend Development with FastAPI
+- 🤖 AI & Computer Vision Applications
+- 🔗 REST API Development & Integration
+- 🗄️ SQL & Database Operations
+- 🚀 Passionate about building production-ready AI systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Languages
+### Languages
+- Python
+- JavaScript
+- SQL
+- HTML
+- CSS
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### Backend
+- FastAPI
+- REST APIs
+- Authentication
+- API Integration
 
-### ⚡ Backend Development
+### AI & Computer Vision
+- DINOv2
+- FAISS
+- ResNet50
+- YOLO
+- OCR
+- Google Vertex AI
+- Machine Learning
+- Computer Vision
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Authentication-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Integration-FF6F00?style=for-the-badge" />
-</p>
+### Databases
+- MySQL
+- SQL Server
+- MongoDB
 
-### 🤖 AI & Machine Learning
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
 
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C6BC0?style=for-the-badge" />
-</p>
+---
 
-### 🗄️ Databases
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+### 🔍 Fabric Search Engine
+Developed an AI-powered visual search platform using DINOv2 embeddings and FAISS vector indexing to retrieve visually similar fabrics from large-scale image datasets.
 
-### 🧰 Tools & Development
+**Tech Stack:** Python, DINOv2, FAISS, Computer Vision
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+---
+
+### 🧵 Fabric Analyzer
+Built a fabric analysis solution using ResNet50 to automatically identify fabric characteristics such as pattern, weave structure, and fabric type.
+
+**Tech Stack:** Python, ResNet50, Deep Learning
+
+---
+
+### 🪟 AI Curtain Detector & Virtual Try-On
+Developed a Computer Vision application using YOLO to detect window regions, remove existing curtains, and generate realistic curtain visualizations using uploaded fabric designs.
+
+**Tech Stack:** Python, YOLO, Computer Vision
+
+---
+
+### 📝 OCR Text Extraction
+Developed OCR-powered document processing workflows for extracting and digitizing text from images and scanned documents.
+
+**Tech Stack:** Python, OCR, Image Processing
+
+---
+
+### 👕 Garment Virtual Try-On Platform
+Contributed to the development of a garment try-on solution supporting both desktop and video-based experiences. Integrated Google Vertex AI services for AI-driven visualization workflows.
+
+**Tech Stack:** JavaScript, Google Vertex AI, Computer Vision
 
 ---
 
 ## 🎯 Current Focus
 
-I'm currently focused on becoming a stronger **AI & Backend Developer** by working on:
+- Computer Vision Applications
+- AI-Powered Search Systems
+- Generative AI Applications
+- FastAPI Backend Development
+- Scalable REST APIs
+- Production-Ready AI Systems
 
-* 🤖 Generative AI Applications
-* 🧠 Large Language Model Applications
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧩 AI Agents
-* ⚡ FastAPI & Backend Architecture
-* 🔐 Secure REST APIs
-* 🗄️ Database Design & Optimization
-* 🚀 Production-Ready AI Systems
-* 📈 Scalable Backend Architecture
-
----
-
-## 💻 Featured Projects
-
-### 🔹 AI & Backend Projects
-
-I'm building projects around:
-
-* 🤖 AI-powered applications
-* 🧠 LLM-based systems
-* 🔎 RAG applications
-* 👁️ Computer Vision
-* ⚡ FastAPI backend services
-* 🔗 REST API integrations
-* 🗄️ Database-driven applications
-
-Check out my repositories for projects and experiments:
-
-<p align="center">
-  <a href="https://github.com/omkar-pangavhane">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 ---
 
 ## 🧠 Core Competencies
 
-| Area            | Skills                                       |
-| --------------- | -------------------------------------------- |
-| Backend         | Python, FastAPI, REST APIs                   |
-| AI              | Generative AI, LLMs, RAG, AI Agents          |
-| Computer Vision | Image Processing, Computer Vision            |
-| Databases       | MySQL, SQL Server, MongoDB                   |
-| APIs            | REST API Design, Integration, Authentication |
-| Engineering     | Debugging, Problem Solving, Optimization     |
-| Tools           | Git, GitHub, VS Code, Postman                |
+| Area | Skills |
+|--------|---------|
+| Backend Development | Python, FastAPI, REST APIs |
+| AI & Computer Vision | DINOv2, YOLO, ResNet50, OCR |
+| Machine Learning | Deep Learning, Feature Extraction |
+| Databases | MySQL, SQL Server, MongoDB |
+| APIs | API Design, Integration, Authentication |
+| Tools | Git, GitHub, Postman, VS Code |
 
 ---
 
-## 📚 What I'm Learning
-
-```text
-AI Engineering
-     ↓
-LLM Applications
-     ↓
-RAG Systems
-     ↓
-AI Agents
-     ↓
-Production AI
-     ↓
-Scalable AI Backend Architecture
-```
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -171,9 +146,5 @@ Scalable AI Backend Architecture
 ---
 
 <p align="center">
-  <b>Building with Python. Exploring AI. Creating useful software. 🚀</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <b>Building AI-Powered Applications • Computer Vision Solutions • Scalable Backend Systems 🚀</b>
 </p>
